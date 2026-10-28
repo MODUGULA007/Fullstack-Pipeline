@@ -79,9 +79,8 @@ This project uses GitHub Actions for:
 
 📌 Workflow Location:
 .github/workflows/
-📸 CI/CD Pipeline Screenshot
 
-Add screenshots like:
+📸 CI/CD Pipeline Screenshot
 
 GitHub Actions running
 Build success logs
