@@ -93,8 +93,6 @@ Frontend	http://localhost:3000
 
 Backend	http://localhost:5000
 
-📸 Screenshots (IMPORTANT for GitHub)
-
  screenshots inside /screenshots folder:
 
 1. Home Page
